@@ -1,0 +1,28 @@
+/* Write your code here. */
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height:;
+  width: 100vw;
+  padding: 40px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 80vw;
+}
+.big-img {
+  width: 100%;
+}
+.ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
